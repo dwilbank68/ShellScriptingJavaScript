@@ -1,0 +1,25 @@
+{
+  "name": "nodeShell",
+  "version": "1.0.0",
+  "description": "",
+  "main": "thumbnail.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.20.0",
+    "csvtojson": "^2.0.10",
+    "jimp": "^0.6.4",
+    "lodash": "^4.17.14",
+    "readline-sync": "^1.4.9",
+    "shelljs": "^0.8.3"
+  },
+
+  "bin": {
+      "thumb": "./thumbnail.js"
+  }
+
+}
