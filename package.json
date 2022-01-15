@@ -15,7 +15,7 @@
     "jimp": "^0.6.4",
     "lodash": "^4.17.14",
     "readline-sync": "^1.4.9",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   },
 
   "bin": {
